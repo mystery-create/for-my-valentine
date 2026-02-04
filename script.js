@@ -35,6 +35,3 @@ else if(count === 2){
     }, 3000);
     }
 }
-function fun3(){
-    text.innerHTML="hey, I promise you will be very happy with me!! \n will you??💗💖 "
-}
