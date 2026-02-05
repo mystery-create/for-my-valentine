@@ -2,6 +2,8 @@
 let text = document.querySelector("#text");
 let btns=document.querySelector("#btns");
 let razzz=document.querySelector(".razzz");
+let img=document.querySelector("#img");
+img.classList.add("hide");
    function fun1(){
      text.innerHTML=" thanks yar, today is the best day of my life!! ❤️";
      razzz.style.justifyContent = "center"
@@ -35,3 +37,4 @@ else if(count === 2){
     }, 3000);
     }
 }
+
