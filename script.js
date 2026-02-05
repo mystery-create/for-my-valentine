@@ -23,7 +23,7 @@ function fun2(){
  razzz.style.transform = "translate(-175px, -200px)";}
 else if(count === 2){
      text.innerHTML="hey, I promise you will be very happy with me!! \n will you??💗💖 ";
-     razzz.style.transform = "translate(400px, 100px)";}
+     razzz.style.transform = "translate(200px, 100px)";}
     else if(count===3){
         text.innerHTML="Are you Sure?  Please except it  🥺💗❤️‍🩹";
      razzz.style.transform = "translate(-150px, -100px)";}
@@ -37,4 +37,5 @@ else if(count === 2){
     }, 3000);
     }
 }
+
 
