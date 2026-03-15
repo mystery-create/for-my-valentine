@@ -29,7 +29,7 @@ else if(count === 2){
      razzz.style.transform = "translate(-150px, -100px)";}
     else{
            text.innerHTML="ok, i will not force you.You are free for your decisions 👍🥺🫡";
-            razzz.style.transform = "translate(50px, 100px)";
+            razzz.style.transform = "translate(50px, -100px)";
             btns.classList.add("hide");
             setTimeout(() => {
         razzz.classList.add("hide"); 
